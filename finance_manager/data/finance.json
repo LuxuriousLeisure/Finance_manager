@@ -1,0 +1,50 @@
+[
+    {
+        "username": "alice",
+        "type": "收入",
+        "amount": 5000,
+        "category": "工资",
+        "date": "2025-01-10",
+        "notes": "1月工资"
+    },
+    {
+        "username": "alice",
+        "type": "支出",
+        "amount": 200,
+        "category": "餐饮",
+        "date": "2025-01-11",
+        "notes": "午餐"
+    },
+    {
+        "username": "alice",
+        "type": "支出",
+        "amount": 50,
+        "category": "交通",
+        "date": "2025-01-11",
+        "notes": "地铁"
+    },
+    {
+        "username": "bob",
+        "type": "收入",
+        "amount": 3000,
+        "category": "工资",
+        "date": "2025-01-10",
+        "notes": "1月工资"
+    },
+    {
+        "username": "bob",
+        "type": "支出",
+        "amount": 150,
+        "category": "娱乐",
+        "date": "2025-01-11",
+        "notes": "电影票"
+    },
+    {
+        "username": "bob",
+        "type": "支出",
+        "amount": 30,
+        "category": "餐饮",
+        "date": "2025-01-11",
+        "notes": "晚餐"
+    }
+]

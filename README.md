@@ -165,6 +165,6 @@ python main.py
 ## 联系方式
 
 - 联系人：wu
-- 电子邮件：wuyou007991@outlook.com
+- 电子邮件：Wuyou007991@outlook.com
 
 ---
